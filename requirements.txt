@@ -1,0 +1,11 @@
+transformers==4.56.2
+datasets==4.1.1
+torch==2.8.0
+numpy==2.3.3
+scikit-learn==1.7.2
+pandas==2.3.2
+nltk==3.9.1
+faiss-cpu
+matplotlib
+seaborn
+accelerate>=0.26.0
